@@ -10,4 +10,4 @@ I'm a Software Developer with a BSc in Information Systems Engineering
 - ⚡ Fun fact: 
     - :blue_car: I like cars since I was young, especially Lamborghini.
     - :art: I find Front-end development very appealing due to the combination of code and design.
-    - :space_invader: Favorite video games include God of War, Ghost of Tsushima and Horizon Zero Dawn. 
+    - :space_invader: Favorite video games include God of War, Ghost of Tsushima, Horizon Zero Dawn and Pokémon Red/Silver/Ruby. 
