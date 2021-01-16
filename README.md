@@ -1,4 +1,4 @@
-### Hi there, I'm Ben Nadler 👋
+### Hi there, I'm Ben 👋
 
 <!--
 **nadlerBen/nadlerBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
