@@ -1,6 +1,9 @@
 ### Hi there, I'm Ben 👋
 
-![avatar-image](https://i.ibb.co/7pVVyPX/leaphere-drawing.png)
+<p align="center">
+  <img src="https://i.ibb.co/7pVVyPX/leaphere-drawing.png">
+</p>
+
 <!--
 **nadlerBen/nadlerBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
