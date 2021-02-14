@@ -9,7 +9,7 @@
 
 I'm a Full Stack Developer with a BSc in Information Systems Engineering
 
-- 🔭 I’m currently working on [Slumbering Weald](https://github.com/nadlerBen/slumbering-weald), A platform for Pokémon players to search and find other players to trade with, built with React.js and Redux.js.
+- 🔭 I’m currently working on [Slumbering Weald](https://github.com/nadlerBen/slumbering-weald), A platform for Pokémon players to search and find other players to trade with, built with React.js, Redux.js, MongoDB and Node.js.
 - 🌱 I’m currently learning MongoDB, Node.js and Express.
 - ⚡ Fun facts: 
     - :blue_car: I like cars since I was young, especially Lamborghini.
