@@ -13,5 +13,5 @@ I'm a Full Stack Developer at Tictuk with a BSc in Information Systems Engineeri
 - ⚡ Fun facts: 
     - :blue_car: I like cars since I was young, especially Lamborghini.
     - :art: I find Front-end development very appealing due to the combination of code and design.
-    - :space_invader: Favorite video games include God of War, Ghost of Tsushima, Horizon Zero Dawn and Pokémon Red/Silver/Ruby. 
+    - :space_invader: Favorite video games include God of War, Ghost of Tsushima, Horizon Zero Dawn, No Man's Sky and Pokémon Red/Silver/Ruby.
     - :pizza: Can't resist to Pizza, Sushi and Lasagna.
