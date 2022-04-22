@@ -9,7 +9,7 @@
 
 I'm a Full Stack Developer at Tictuk with a BSc in Information Systems Engineering from the Technion
 - 🔭 I’m currently working on Slumbering Weald, A platform for Pokémon players to search and find other players to trade with, built with React.js, Redux.js, MongoDB and Node.js.
-- 🌱 I’m currently learning MongoDB, Node.js and Express.
+- 🌱 I’m currently learning about unit testing for React apps.
 - ⚡ Fun facts: 
     - :blue_car: I like cars since I was young, especially Lamborghini.
     - :art: I find Front-end development very appealing due to the combination of code and design.
