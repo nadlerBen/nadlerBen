@@ -7,7 +7,7 @@
 <!--
 **nadlerBen/nadlerBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm a Full Stack Developer at Tictuk with a BSc in Information Systems Engineering from the Technion
+I'm a Front Developer at Cloudinary, former Full Stack Developer at Tictuk with a BSc in Information Systems Engineering from the Technion
 - 🔭 I’m currently working on Slumbering Weald, A platform for Pokémon players to search and find other players to trade with, built with React.js, Redux.js, MongoDB and Node.js.
 - 🌱 I’m currently learning about unit testing for React apps.
 - ⚡ Fun facts: 
